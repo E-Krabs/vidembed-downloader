@@ -4,7 +4,12 @@ Flask app - scrapes vidembed.net results, and downloads mp4. (WIP)
 <h2>This script is still in development. Video playback doesn't work in firefox yet (idk why).</h2>
 <br><hr><br>
 <img src="https://raw.githubusercontent.com/NEDb-tk/vidembed_downloader/main/images/cmd1.PNG"></img>
+cmd
 <img src="https://raw.githubusercontent.com/NEDb-tk/vidembed_downloader/main/images/fox1.PNG"></img>
+movie form template
 <img src="https://raw.githubusercontent.com/NEDb-tk/vidembed_downloader/main/images/fox2.PNG"></img>
+scraped results
 <img src="https://raw.githubusercontent.com/NEDb-tk/vidembed_downloader/main/images/fox3.PNG"></img>
+firefox doesn't like it
 <img src="https://raw.githubusercontent.com/NEDb-tk/vidembed_downloader/main/images/edge1.PNG"></img>
+but edge is OK
